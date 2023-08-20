@@ -1,0 +1,13 @@
+thought in frontend
+.->first  we use  usestate to  store data and manage all the data
+->and useEffect to rendred all the data using a function
+-> and using a asynchronus function to retrieve all the data from the backend]
+->and lastly we return the userinterface using bootstrap and retrive all the task we input into the box,
+
+thoughts in backend 
+->fisrt we make three middleware to one for the get all task ,one for the add task ,
+and one for the delete particular item in controller file
+->now we connecting to the database (MYSQL)using all the credientials
+->and in the miiddleware we use SQL query to add ,retrieve and delete the data 
+->and send them to frontend
+
